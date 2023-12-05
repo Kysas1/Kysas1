@@ -4,7 +4,7 @@
 <div>
   <a href="https://github.com/Kysas1">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kysas1&show=reviews,discussions_started,discussions_answered,prs_merged_percentage&theme=dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kysas1&show=reviews,discussions_started,discussions_answered,&theme=dark)
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kysas1&layout=compact&langs_count=7&theme=dark"/>
 </div>
